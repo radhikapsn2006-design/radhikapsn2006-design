@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Radhika
 
-<!--
-**radhikapsn2006-design/radhikapsn2006-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student & AI/ML Enthusiast  
+💻 Interested in Machine Learning, NLP, and Data Science  
+🚀 Building ML projects using Python and Scikit-learn  
 
-Here are some ideas to get you started:
+## 🔥 Projects
+- House Price Prediction using Linear Regression
+- Spam Email Classifier using NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- Machine Learning
+- Data Analysis
+- NLP
+- Scikit-learn
+- Pandas
+
+## 📫 Connect with me
+- GitHub: https://github.com/yourusername
+
